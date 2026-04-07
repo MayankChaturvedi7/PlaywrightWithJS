@@ -1,0 +1,33 @@
+# Node
+node_modules/
+
+# Playwright
+playwright-report/
+-test-results/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Misc
+.cache/
+.nyc_output/
